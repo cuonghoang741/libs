@@ -1,0 +1,16 @@
+@font-face {
+    font-family: "BHN Sequel 100 Wide 55";
+    src: url('/font/bhn/BHN Sequel 100 Wide 55.ttf') format("truetype");
+}
+@font-face {
+    font-family: "BHN Sequel 100 Wide 95";
+    src: url('/font/bhn/BHN Sequel 100 Wide 95.otf') format("truetype");
+}
+
+.f-bhn-qequel-100-wide-55{
+    font-family: 'BHN Sequel 100 Wide 55';
+}
+
+.f-bhn-qequel-100-wide-95{
+    font-family: 'BHN Sequel 100 Wide 95';
+}

@@ -1,0 +1,106 @@
+@font-face {
+    font-family: "NeueMachina-Ultrabold";
+    src: url('/font/neue/NeueMachina-Ultrabold.otf') format("truetype");
+}
+@font-face {
+    font-family: "NeueMachina-Bold";
+    src: url('/font/neue/NeueMachina-Bold.otf') format("truetype");
+}
+@font-face {
+    font-family: "NeueMetanaNext-SemiBold";
+    src: url('/font/neue/NeueMetanaNext-SemiBold.otf') format("truetype");
+}
+@font-face {
+    font-family: "Kelsi-fill";
+    src: url('/font/neue/Kelsi-fill.otf') format("truetype");
+}
+@font-face {
+    font-family: "NeueMetanaNextOutline-Black";
+    src: url('/font/neue/NeueMetanaNextOutline-Black.otf') format("truetype");
+}
+
+
+@font-face {
+    font-family: "Hanken Design Co - Neue Einstellung Black.otf";
+    src: url('/font/neue/Hanken Design Co - Neue Einstellung Black.otf') format("truetype");
+}
+@font-face {
+    font-family: "Hanken Design Co - Neue Einstellung Bold.otf";
+    src: url('/font/neue/Hanken Design Co - Neue Einstellung Bold.otf') format("truetype");
+}
+
+@font-face {
+    font-family: "Hanken Design Co - Neue Einstellung Extra Bold.otf";
+    src: url('/font/neue/Hanken Design Co - Neue Einstellung Extra Bold.otf') format("truetype");
+}
+@font-face {
+    font-family: "Hanken Design Co - Neue Einstellung Extra Light.otf";
+    src: url('/font/neue/Hanken Design Co - Neue Einstellung Extra Light.otf') format("truetype");
+}
+@font-face {
+    font-family: "Hanken Design Co - Neue Einstellung Light.otf";
+    src: url('/font/neue/Hanken Design Co - Neue Einstellung Light.otf') format("truetype");
+}
+@font-face {
+    font-family: "Hanken Design Co - Neue Einstellung Medium.otf";
+    src: url('/font/neue/Hanken Design Co - Neue Einstellung Medium.otf') format("truetype");
+}
+
+@font-face {
+    font-family: "Hanken Design Co - Neue Einstellung Regular.otf";
+    src: url('/font/neue/Hanken Design Co - Neue Einstellung Regular.otf') format("truetype");
+}
+@font-face {
+    font-family: "Hanken Design Co - Neue Einstellung Semi Bold.otf";
+    src: url('/font/neue/Hanken Design Co - Neue Einstellung Semi Bold.otf') format("truetype");
+}
+@font-face {
+    font-family: "Hanken Design Co - Neue Einstellung Thin.otf";
+    src: url('/font/neue/Hanken Design Co - Neue Einstellung Thin.otf') format("truetype");
+}
+
+.f-neue-machina-bold{
+    font-family: 'NeueMachina-Bold';
+}
+
+.f-neue-machina-ultraBold{
+    font-family: 'NeueMachina-Ultrabold';
+}
+.f-neue-metana-semiBold{
+    font-family: 'NeueMetanaNext-SemiBold';
+}
+.f-kelsi-fill{
+    font-family: 'Kelsi-fill';
+}
+.f-NeueMetanaNextOutline-Black{
+    font-family: 'NeueMetanaNextOutline-Black';
+}
+
+.f-Neue-Einstellung-Black{
+    font-family: 'Hanken Design Co - Neue Einstellung Black.otf';
+}
+.f-Neue-Einstellung-Bold{
+    font-family: 'Hanken Design Co - Neue Einstellung Bold.otf';
+}
+.f-Neue-Einstellung-Extra-Bold{
+    font-family: 'Hanken Design Co - Neue Einstellung Extra Bold.otf';
+}
+.f-Neue-Einstellung-Extra-Light{
+    font-family: 'Hanken Design Co - Neue Einstellung Extra Light.otf';
+}
+.f-Neue-Einstellung-Light{
+    font-family: 'Hanken Design Co - Neue Einstellung Light.otf';
+}
+.f-Neue-Einstellung-Medium{
+    font-family: 'Hanken Design Co - Neue Einstellung Medium.otf';
+}
+.f-Neue-Einstellung-Regular{
+    font-family: 'Hanken Design Co - Neue Einstellung Regular.otf';
+}
+.f-Neue-Einstellung-SemiBold{
+    font-family: 'Hanken Design Co - Neue Einstellung Semi Bold.otf';
+}
+.f-Neue-Einstellung-Thin{
+    font-family: 'Hanken Design Co - Neue Einstellung Thin.otf';
+}
+

@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "bahnschrift.ttf";
+    src: url('/font/bahnschrift/bahnschrift.ttf') format("truetype");
+}
+
+.f-bahnschrift {
+    font-family: 'bahnschrift.ttf' !important;
+}

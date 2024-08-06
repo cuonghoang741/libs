@@ -1,0 +1,70 @@
+@font-face {
+    font-family: "BeautiqueDisplay-Black";
+    src: url('/font/beautique/display/BeautiqueDisplay-Black.otf') format("truetype");
+}
+@font-face {
+    font-family: "BeautiqueDisplay-BlackItalic";
+    src: url('/font/beautique/display/BeautiqueDisplay-BlackItalic.otf') format("truetype");
+}
+@font-face {
+    font-family: "BeautiqueDisplay-Bold";
+    src: url('/font/beautique/display/BeautiqueDisplay-Bold.otf') format("truetype");
+}
+@font-face {
+    font-family: "BeautiqueDisplay-BoldItalic";
+    src: url('/font/beautique/display/BeautiqueDisplay-BoldItalic.otf') format("truetype");
+}
+@font-face {
+    font-family: "BeautiqueDisplay-Italic";
+    src: url('/font/beautique/display/BeautiqueDisplay-Italic.otf') format("truetype");
+}
+@font-face {
+    font-family: "BeautiqueDisplay-Light";
+    src: url('/font/beautique/display/BeautiqueDisplay-Light.otf') format("truetype");
+}
+@font-face {
+    font-family: "BeautiqueDisplay-LightItalic";
+    src: url('/font/beautique/display/BeautiqueDisplay-LightItalic.otf') format("truetype");
+}
+@font-face {
+    font-family: "BeautiqueDisplay-Medium";
+    src: url('/font/beautique/display/BeautiqueDisplay-Medium.otf') format("truetype");
+}
+@font-face {
+    font-family: "BeautiqueDisplay-MediumItalic";
+    src: url('/font/beautique/display/BeautiqueDisplay-MediumItalic.otf') format("truetype");
+}
+@font-face {
+    font-family: "BeautiqueDisplay-Regular";
+    src: url('/font/beautique/display/BeautiqueDisplay-Regular.otf') format("truetype");
+}
+.f-beautique-display-black {
+    font-family: 'BeautiqueDisplay-Black';
+}
+.f-beautique-display-black-italic {
+    font-family: 'BeautiqueDisplay-BlackItalic';
+}
+.f-beautique-display-bold {
+    font-family: 'BeautiqueDisplay-Bold';
+}
+.f-beautique-display-bold-italic {
+    font-family: 'BeautiqueDisplay-BoldItalic';
+}
+.f-beautique-display-italic {
+    font-family: 'BeautiqueDisplay-Italic';
+}
+.f-beautique-display-light {
+    font-family: 'BeautiqueDisplay-Light';
+}
+.f-beautique-display-light-italic {
+    font-family: 'BeautiqueDisplay-LightItalic';
+}
+.f-beautique-display-medium {
+    font-family: 'BeautiqueDisplay-Medium';
+}
+.f-beautique-display-medium-italic {
+    font-family: 'BeautiqueDisplay-MediumItalic';
+}
+.f-beautique-display-regular {
+    font-family: 'BeautiqueDisplay-Regular';
+}

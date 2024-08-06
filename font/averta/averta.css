@@ -1,0 +1,14 @@
+@font-face {
+    font-family: "Averta-Black";
+    src: url('/font/averta/Averta-Black.otf') format("truetype");
+}
+@font-face {
+    font-family: "Averta-Regular";
+    src: url('/font/averta/Averta-Regular.otf') format("truetype");
+}
+.f-averta-black {
+    font-family: 'Averta-Black' !important;
+}
+.f-averta-regular {
+    font-family: 'Averta-Regular' !important;
+}

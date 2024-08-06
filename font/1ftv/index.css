@@ -1,0 +1,29 @@
+@font-face {
+    font-family: "1FTV-VIP-NEUE-POWER-ULTRA";
+    src: url('/font/1ftv/1FTV-VIP-NEUE-POWER-ULTRA.ttf') format("truetype");
+}
+@font-face {
+    font-family: "1FTV-VIP-NEUEPOWER-LIGHT";
+    src: url('/font/1ftv/1FTV-VIP-NEUEPOWER-LIGHT.ttf') format("truetype");
+}
+@font-face {
+    font-family: "1FTV-VIP-NEUEPOWER-MEDIUM";
+    src: url('/font/1ftv/1FTV-VIP-NEUEPOWER-MEDIUM.ttf') format("truetype");
+}
+@font-face {
+    font-family: "1FTV-VIP-NEUEPOWER-REGULAR";
+    src: url('/font/1ftv/1FTV-VIP-NEUEPOWER-REGULAR.ttf') format("truetype");
+}
+.f-FTV-VIP-NEUEPOWER-LIGHT{
+    font-family: '1FTV-VIP-NEUEPOWER-LIGHT';
+}
+
+.f-1FTV-VIP-NEUE-POWER-ULTRA{
+    font-family: '1FTV-VIP-NEUE-POWER-ULTRA';
+}
+.f-1FTV-VIP-NEUEPOWER-MEDIUM{
+    font-family: '1FTV-VIP-NEUEPOWER-MEDIUM';
+}
+.f-1FTV-VIP-NEUEPOWER-REGULAR{
+    font-family: '1FTV-VIP-NEUEPOWER-REGULAR';
+}

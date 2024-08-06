@@ -1,0 +1,273 @@
+@font-face {
+    font-family: "SVN-Holiday";
+    src: url('/font/svn/SVN-Holiday.otf') format("truetype");
+}
+
+@font-face {
+    font-family: "SVN-Gilroy Medium";
+    src: url('/font/svn/SVN-Gilroy Medium.otf') format("truetype");
+}
+
+@font-face {
+    font-family: "SVN-Gilroy Black";
+    src: url('/font/svn/SVN-Gilroy Black.otf') format("truetype");
+}
+
+@font-face {
+    font-family: "SVN-Gilroy SemiBold";
+    src: url('/font/svn/SVN-Gilroy SemiBold.otf') format("truetype");
+}
+
+@font-face {
+    font-family: "SVN-Gilroy Light";
+    src: url('/font/svn/SVN-Gilroy Light.otf') format("truetype");
+}
+
+@font-face {
+    font-family: "SVN-Dear Jane";
+    src: url('/font/svn/SVN-Dear Jane.otf') format("truetype");
+}
+
+/*@font-face {*/
+/*    font-family: "SVN-Holiday";*/
+/*    src: url('https://d1j8r0kxyu9tj8.cloudfront.net/files/1678868031WbjtA2HGfXqQ6Rd.otf') format("truetype");*/
+/*}*/
+@font-face {
+    font-family: "SVN-Gilroy XBold";
+    src: url('/font/svn/SVN-Gilroy XBold.otf') format("truetype");
+}
+
+@font-face {
+    font-family: "SVN-Monument Extended";
+    src: url('/font/svn/SVN-MONUMENTEXTENDED-REGULAR.OTF') format("truetype");
+}
+
+@font-face {
+    font-family: "SVN-Gilroy Xlight";
+    src: url('/font/svn/SVN-Gilroy Xlight.otf') format("truetype");
+}
+
+@font-face {
+    font-family: "SVN-Gilroy Thin.otf";
+    src: url('/font/svn/SVN-Gilroy Thin.otf') format("truetype");
+}
+
+@font-face {
+    font-family: "SVN-GlorifySans-Black.ttf";
+    src: url('/font/svn/SVN-GlorifySans-Black.ttf') format("truetype");
+}
+
+@font-face {
+    font-family: "SVN-GlorifySans-Bold.ttf";
+    src: url('/font/svn/SVN-GlorifySans-Bold.otf') format("truetype");
+}
+
+@font-face {
+    font-family: "SVN-GlorifySans-Regular.ttf";
+    src: url('/font/svn/SVN-GlorifySans-Regular.ttf') format("truetype");
+}
+
+@font-face {
+    font-family: "SVN-Gilroy Medium Italic.otf";
+    src: url('/font/svn/SVN-Gilroy Medium Italic.otf') format("truetype");
+}
+
+@font-face {
+    font-family: "SVN-Megren.otf";
+    src: url('/font/svn/SVN-Megren.otf') format("truetype");
+}
+
+@font-face {
+    font-family: "SVN-Gilroy Regular";
+    src: url('/font/svn/SVN-Gilroy Regular.otf') format("truetype");
+}
+
+@font-face {
+    font-family: "SVN-MONUMENTEXTENDED-BOLD.OTF";
+    src: url('/font/svn/SVN-MONUMENTEXTENDED-BOLD.OTF') format("truetype");
+}
+
+@font-face {
+    font-family: "SVN-MONUMENTEXTENDED-REGULAR.OTF";
+    src: url('/font/svn/SVN-MONUMENTEXTENDED-REGULAR.OTF') format("truetype");
+}
+
+@font-face {
+    font-family: "SVN-MONUMENTEXTENDED-LIGHT.OTF";
+    src: url('/font/svn/SVN-MONUMENTEXTENDED-LIGHT.OTF') format("truetype");
+}
+
+@font-face {
+    font-family: "Bản sao của SVN-Gilroy Black Italic.ttf";
+    src: url('/font/svn/Bản sao của SVN-Gilroy Black Italic.ttf') format("truetype");
+}
+
+@font-face {
+    font-family: "Bản sao của SVN-Gilroy Bold Italic.ttf";
+    src: url('/font/svn/Bản sao của SVN-Gilroy Bold Italic.ttf') format("truetype");
+}
+
+@font-face {
+    font-family: "Bản sao của SVN-Gilroy Heavy Italic.ttf";
+    src: url('/font/svn/Bản sao của SVN-Gilroy Heavy Italic.ttf') format("truetype");
+}
+
+@font-face {
+    font-family: "Bản sao của SVN-Gilroy Italic.ttf";
+    src: url('/font/svn/Bản sao của SVN-Gilroy Italic.ttf') format("truetype");
+}
+
+@font-face {
+    font-family: "Bản sao của SVN-Gilroy SemiBold Italic.ttf";
+    src: url('/font/svn/Bản sao của SVN-Gilroy SemiBold Italic.ttf') format("truetype");
+}
+
+@font-face {
+    font-family: "Bản sao của SVN-Gilroy Thin Italic.ttf";
+    src: url('/font/svn/Bản sao của SVN-Gilroy Thin Italic.ttf') format("truetype");
+}
+
+@font-face {
+    font-family: "Bản sao của SVN-Gilroy XBold Italic.ttf";
+    src: url('/font/svn/Bản sao của SVN-Gilroy XBold Italic.ttf') format("truetype");
+}
+
+@font-face {
+    font-family: "Product Sans Bold.otf";
+    src: url('/font/svn/Product Sans Bold.otf') format("truetype");
+}
+
+@font-face {
+    font-family: "Product Sans Bold Italic.otf";
+    src: url('/font/svn/Product Sans Bold Italic.otf') format("truetype");
+}
+
+@font-face {
+    font-family: "Product Sans Italic.otf";
+    src: url('/font/svn/Product Sans Italic.otf') format("truetype");
+}
+
+@font-face {
+    font-family: "Product Sans Regular.otf";
+    src: url('/font/svn/Product Sans Regular.otf') format("truetype");
+}
+
+.f-svn-mergen {
+    font-family: "SVN-Megren";
+}
+
+.f-svn-holiday {
+    font-family: 'SVN-Holiday', sans-serif;
+}
+
+.f-svn-monument-extended {
+    font-family: "SVN-Monument Extended";
+}
+
+.f-svn-gilroy-light {
+    font-family: "SVN-Gilroy Light";
+}
+
+.f-svn-gilroy-medium {
+    font-family: "SVN-Gilroy Medium";
+}
+
+.f-svn-gilroy-black {
+    font-family: "SVN-Gilroy Black";
+}
+
+.f-svn-gilroy-semiBold {
+    font-family: "SVN-Gilroy SemiBold";
+}
+
+.f-svn-gilroy-light {
+    font-family: "SVN-Gilroy Light";
+}
+
+.f-svn-gilroy-xBold {
+    font-family: "SVN-Gilroy XBold";
+}
+
+.f-svn-gilroy-xlight {
+    font-family: "SVN-Gilroy Xlight";
+}
+
+.f-svn-glorifySans-black {
+    font-family: "SVN-GlorifySans-Black";
+}
+
+.f-svn-glorifySans-bold {
+    font-family: "SVN-GlorifySans-Bold";
+}
+
+.f-svn-glorifySans-regular {
+    font-family: "SVN-GlorifySans-Regular";
+}
+
+.f-svn-gilroy-medium-italic {
+    font-family: "SVN-Gilroy Medium Italic";
+}
+
+.f-svn-dear-jane {
+    font-family: "SVN-Dear Jane";
+}
+
+.f-svn-gilroy-regular {
+    font-family: "SVN-Gilroy Regular";
+}
+
+.f-SVN-MONUMENTEXTENDED-REGULAR {
+    font-family: "SVN-MONUMENTEXTENDED-REGULAR.OTF";
+}
+
+.f-SVN-MONUMENTEXTENDED-LIGHT {
+    font-family: "SVN-MONUMENTEXTENDED-LIGHT.OTF";
+}
+
+.f-SVN-MONUMENTEXTENDED-BOLD {
+    font-family: "SVN-MONUMENTEXTENDED-BOLD.OTF";
+}
+
+.f-SVN-Gilroy-Bold-Italic {
+    font-family: "Bản sao của SVN-Gilroy Bold Italic.ttf";
+}
+
+.f-SVN-Gilroy-Black-Italic {
+    font-family: "Bản sao của SVN-Gilroy Black Italic";
+}
+
+.f-SVN-Gilroy-Heavy-Italic {
+    font-family: "Bản sao của SVN-Gilroy Heavy Italic.ttf";
+}
+
+.f-SVN-Gilroy-Italic {
+    font-family: "Bản sao của SVN-Gilroy Italic.ttf";
+}
+
+.f-SVN-Gilroy-SemiBold-Italic {
+    font-family: "Bản sao của SVN-Gilroy SemiBold Italic.ttf";
+}
+
+.f-SVN-Gilroy-Thin-Italic {
+    font-family: "Bản sao của SVN-Gilroy Thin Italic.ttf";
+}
+
+.f-SVN-Gilroy-XBold-Italic {
+    font-family: "Bản sao của SVN-Gilroy XBold Italic.ttf";
+}
+
+.f-svn-Product-Sans-Bold {
+    font-family: "Product Sans Bold.otf";
+}
+
+.f-svn-Product-Sans-Bold-Italic {
+    font-family: "Product Sans Bold Italic.otf";
+}
+
+.f-svn-Product-Sans-Italic {
+    font-family: "Product Sans Italic.otf";
+}
+
+.f-svn-Product-Sans-Regular {
+    font-family: "Product Sans Regular.otf";
+}

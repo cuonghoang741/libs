@@ -1,0 +1,7 @@
+@font-face {
+    font-family: "denitascript-3z8mp";
+    src: url('/font/denita-script/denitascript-3z8mp.ttf') format("truetype");
+}
+.f-denita-script{
+    font-family: "denitascript-3z8mp";
+}
