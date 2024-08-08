@@ -1,8 +1,0 @@
-@font-face {
-    font-family: "MTD BALINICE.OTF";
-    src: url('/font/MTD/MTD BALINICE.OTF') format("truetype");
-}
-
-.f-MTD-BALINICE {
-    font-family: 'MTD BALINICE.OTF' !important;
-}

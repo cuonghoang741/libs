@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6a7bebf9-cd67-4f9a-9115-604c73ceba28" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/font/1ftv/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Helvetica Neue/helvetica-neue.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/MTD/mtd.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/averta/averta.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/bahnschrift/bahnschrift.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/beautique/display-condensed/display-condensend.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/beautique/display/font-display.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/bhn/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/chor/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/denita-script/font-denita-script.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/dfvn/DFVN Desirable Calligraphy.otf:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/dfvn/DFVN-36daysoftype.otf:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/dfvn/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/montserrat/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/neue/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/svn/Bản sao của SVN-Gilroy Black Italic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/svn/Bản sao của SVN-Gilroy Bold Italic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/svn/Bản sao của SVN-Gilroy Heavy Italic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/svn/Bản sao của SVN-Gilroy Italic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/svn/Bản sao của SVN-Gilroy SemiBold Italic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/svn/Bản sao của SVN-Gilroy Thin Italic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/svn/Bản sao của SVN-Gilroy XBold Italic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/svn/index.css" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2kMzWQHANyUvWe0rznBoemci41N" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;//wsl.localhost/Ubuntu/home/code/eduto/libs&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-php-predefined-ba97393d7c68-6f8e3395a2b4-com.jetbrains.php.sharedIndexes-PS-233.14808.18" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6a7bebf9-cd67-4f9a-9115-604c73ceba28" name="Changes" comment="" />
+      <created>1723108264742</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1723108264742</updated>
+      <workItem from="1723108265820" duration="191000" />
+      <workItem from="1723108738691" duration="628000" />
+      <workItem from="1723109386585" duration="23000" />
+      <workItem from="1723109410424" duration="197000" />
+      <workItem from="1723109618095" duration="345000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
