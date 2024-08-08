@@ -5,29 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6a7bebf9-cd67-4f9a-9115-604c73ceba28" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/font/1ftv/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/font/Helvetica Neue/helvetica-neue.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/font/MTD/mtd.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/font/averta/averta.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/font/bahnschrift/bahnschrift.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/font/beautique/display-condensed/display-condensend.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/font/beautique/display/font-display.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/font/bhn/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/font/chor/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/font/denita-script/font-denita-script.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/font/dfvn/DFVN Desirable Calligraphy.otf:Zone.Identifier" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/font/dfvn/DFVN-36daysoftype.otf:Zone.Identifier" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/font/dfvn/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/font/montserrat/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/font/neue/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/font/svn/Bản sao của SVN-Gilroy Black Italic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/font/svn/Bản sao của SVN-Gilroy Bold Italic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/font/svn/Bản sao của SVN-Gilroy Heavy Italic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/font/svn/Bản sao của SVN-Gilroy Italic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/font/svn/Bản sao của SVN-Gilroy SemiBold Italic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/font/svn/Bản sao của SVN-Gilroy Thin Italic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/font/svn/Bản sao của SVN-Gilroy XBold Italic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/font/svn/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,6 +60,7 @@
       <workItem from="1723109386585" duration="23000" />
       <workItem from="1723109410424" duration="197000" />
       <workItem from="1723109618095" duration="345000" />
+      <workItem from="1723110007256" duration="545000" />
     </task>
     <servers />
   </component>
