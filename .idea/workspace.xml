@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a7bebf9-cd67-4f9a-9115-604c73ceba28" name="Changes" comment="">
+    <list default="true" id="6a7bebf9-cd67-4f9a-9115-604c73ceba28" name="Changes" comment="update font">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,10 +61,28 @@
       <workItem from="1723109410424" duration="197000" />
       <workItem from="1723109618095" duration="345000" />
       <workItem from="1723110007256" duration="545000" />
+      <workItem from="1723110594208" duration="685000" />
+      <workItem from="1723165302014" duration="135000" />
+      <workItem from="1723166046651" duration="13000" />
+      <workItem from="1728984574152" duration="57000" />
+      <workItem from="1729152092010" duration="24000" />
     </task>
+    <task id="LOCAL-00001" summary="update font">
+      <option name="closed" value="true" />
+      <created>1728984598801</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1728984598801</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update font" />
+    <option name="LAST_COMMIT_MESSAGE" value="update font" />
   </component>
 </project>
